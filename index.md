@@ -1,4 +1,4 @@
-## About me
+## Welcome! 
 
 I'm currently a third year Ph.D. student in the program of Atmospheric and Oceanic Sciences (AOS) at Princeton University, advised by Dr. Leo Donner. 
 
