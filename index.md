@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/cindywang625/cindywang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm currently a third year Ph.D. student in the program of Atmospheric and Oceanic Sciences (AOS) at Princeton University, advised by Dr. Leo Donner. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I received my Bachelor of Science in Environmental Earth Systems Science at Macaulay Honors Program at City College of New York (CCNY). There I was an undergraduate research assistant in Dr. Zhengzhao (Johnny) Luo's lab, where I worked on the production of first global version of the International Satellite Cloud Climatology project (ISCCP) Convection Tracking (CT) dataset. Continuing the work of Dr. William Rossow and Cindy Pearl, this dataset extended the temporal coverage of the ISCCP dataset to include 2007-2012 and improved the spatial resolution by including global uniform coverage and higher spatial sampling/resolution (10 km). I also had the opportunity to evaluate different Weather and Research Forecasting (WRF) microphysics schemes to predict rainfall rates during Superstorm Sandy with the United States Geological Survey, under the supervision of Dr. John Warner. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cindywang625/cindywang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+My interest and past research include modeling atmospheric convective dynamics and atmospheric and cloud mechanisms and systems. I'm currently working on exploring how small scale atmospheric processes can modulate sea salt aerosol (SSA) production. My thesis focuses on cloud feedback related to SSA in the atmosphere and aims to uncover the reasons for the dependency of SSA emission on temperature. This recent development of a potential sea surface temperature (SST) dependency on SSA emission has implications for how strong the feedback of sea salt aerosols on the climate will be. By combining insights from recent laboratory experiments and formulations for calculating SSAs using global climate model experiments, I hope to develop a mechanistic understanding of the natural climatic processes that affect SSA production, and on the impact SSA has on a warming climate.
