@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Environmental Earth Systems Science (EESS), Macaulay Honors College at City College of New York (CCNY), 2019
+* M.A. in Atmospheric & Oceanic Sciences (AOS), Princeton University, 2021
+* Ph.D in Atmospheric & Oceanic Sciences (AOS), Princeton University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019 - Current: Research Assistant
+  * Princeton University
+  * Supervisor: Dr. Leo Donner
+  * Committee Members: Dr. Larry Horowitz & Dr. Yi Ming
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2018 - Aug 2019: Research Assistant
+  * City College of New York (CCNY)
+  * Duties included: Continuing the work of Dr. William Rossow and Cindy Pearl on the production of the first global version of the International Satellite Cloud Climatology Project (ISCCP) Convection Tracking dataset, which extended the temporal coverage of the dataset to include 2007-2012 and improved the spatial resolution by including global uniform coverage and higher spatial sampling/resolution (10 km). 
+
+  * Supervisor: Professor Zhengzhao (Johnny) Luo
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* C++
+* Geographic Information System (ArcGIS)
+* Matlab
+* Perl
+* Fortran90
+
 
 Publications
 ======
@@ -54,6 +56,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
