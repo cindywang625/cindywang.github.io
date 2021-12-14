@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Freshman seminar - Undergraduate course"
+type: "teaching"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Princeton University, FRS151"
 date: Fall 2021
