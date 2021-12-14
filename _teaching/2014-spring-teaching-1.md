@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "teaching"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2021-teaching
 venue: "Princeton University, FRS151"
 date: Fall 2021
 location: "Princeton, NJ"
