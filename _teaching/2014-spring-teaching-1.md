@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /teaching/2021-teaching
 venue: "Princeton University, FRS151"
-date: Fall 2021
+date: 2021-09-01
 location: "Princeton, NJ"
 ---
 
