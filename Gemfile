@@ -16,6 +16,7 @@ gem 'jekyll', '3.3.1'
 # To upgrade, run `bundle update`.
 
 # gem "jekyll"
+gem "webrick"
 
 group :jekyll_plugins do
 	gem 'jekyll-feed', '0.6.0'
