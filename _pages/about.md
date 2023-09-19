@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a third year Ph.D. student in the program of Atmospheric and Oceanic Sciences (AOS) at Princeton University, advised by Dr. Leo Donner.
+I'm a Ph.D. student in the program of Atmospheric and Oceanic Sciences (AOS) at Princeton University, advised by Dr. Leo Donner.
 
 I received my Bachelor of Science in Environmental Earth Systems Science at Macaulay Honors Program at City College of New York (CCNY). There I was an undergraduate research assistant in Dr. Zhengzhao (Johnny) Luo's lab, where I worked on the production of first global version of the International Satellite Cloud Climatology project (ISCCP) Convection Tracking (CT) dataset. Continuing the work of Dr. William Rossow and Cindy Pearl, this dataset extended the temporal coverage of the ISCCP dataset to include 2007-2012 and improved the spatial resolution by including global uniform coverage and higher spatial sampling/resolution (10 km). I also had the opportunity to evaluate different Weather and Research Forecasting (WRF) microphysics schemes to predict rainfall rates during Superstorm Sandy with the United States Geological Survey (USGS), under the supervision of Dr. John Warner.
 
